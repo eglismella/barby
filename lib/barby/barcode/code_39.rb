@@ -30,8 +30,8 @@ module Barby
       'R' => [W,N,N,N,N,N,W,W,N], 'S' => [N,N,W,N,N,N,W,W,N],
       'T' => [N,N,N,N,W,N,W,W,N], 'U' => [W,W,N,N,N,N,N,N,W],
       'V' => [N,W,W,N,N,N,N,N,W], 'W' => [W,W,W,N,N,N,N,N,N],
-      'X' => [N,W,N,N,W,N,N,N,W], 'Y' => [W,W,N,N,W,N,N,N,N],
-      'Z' => [N,W,W,N,W,N,N,N,N]
+      'X' => [N,W,N,N,W,N,N,N,W], 'Y' => [N,W,W,N,W,N,N,N,N],
+      'Z' => [W,W,N,N,W,N,N,N,N]
     }
 
     #In extended mode, each character is replaced with two characters from the "normal" encoding
